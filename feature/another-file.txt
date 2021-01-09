@@ -1,0 +1,9 @@
+Just another file created in feature-1 branch 
+
+This file was modified locally
+
+changed again locally
+
+Another modification in the feature 
+
+Edit in the feature-2 branch 
